@@ -1,5 +1,5 @@
 # CECS-326-LAB-3-Semaphores
-Added semaphores to CECS 326 LAB 2: Concurrent Processing and Shared Memory. Modified swim_mill  to include a semaphore to control access to critical resources such as the shared memory.
+Added semaphores to CECS 326 LAB 2: Concurrent Processing and Shared Memory. Modified swim_mill to include a semaphore to control access to critical resources such as the shared memory.
 
 •A set of pellet processes: Each pelletprocess drops a pellet at a random distance from the fish. We will call this process pellet. The pellet will start moving towards the fish with the flow of the river. For simplicity, we will assume that the pellet moves in a straight line downstream.
 
