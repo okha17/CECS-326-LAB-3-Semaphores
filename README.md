@@ -8,7 +8,13 @@ Added semaphores to CECS 326 LAB 2: Concurrent Processing and Shared Memory. Mod
 •A coordinator process named swim_mill: It is responsible for creating the fish process, the pelletprocesses, and coordinating the termination of pellets. We could have more than one pellet at anytime. Note that the position of pellet and fish are maintained by their respective processes.
 
 To run the program use the makefile 
+
+
 ![image](https://user-images.githubusercontent.com/17859981/111240437-7c405680-85b8-11eb-8511-a3f76a1f8826.png)
 
+
+
 Example output of program
+
+
 ![image](https://user-images.githubusercontent.com/17859981/111240507-9b3ee880-85b8-11eb-8da3-aab9330d4a30.png)
